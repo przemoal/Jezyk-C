@@ -1,2 +1,0 @@
-# Jezyk-C
-dassaddas
